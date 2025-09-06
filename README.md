@@ -2,14 +2,14 @@
 
 This is a react.js project. Generate password based on user input
 
-#Features:
+##Features:
 
 - select password length
 - select attributes (uppercase lowercase, etc.)
 - copy button
 - notification
 
-#Tech stack
+##Tech stack
 
 - react.js with vite
 - hot toast
@@ -18,7 +18,7 @@ This is a react.js project. Generate password based on user input
 
 Best for beginners 
 
-#Learning outcomes:
+##Learning outcomes:
 
 - state amanagement
 - effect of satate
