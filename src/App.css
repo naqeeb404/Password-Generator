@@ -1,0 +1,51 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container{
+  background-color: rgb(76, 79, 85);
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.showPass{
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.showPass input {
+  flex-basis: 80%;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+
+.showPass button {
+  flex-basis: 20%;
+}
+
+.passlen{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+
+
+
+
+.checkbox{
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn{
+  margin-top: 20px;
+}
+
+.btn button{
+  width: 100%;
+  cursor: pointer;
+}
